@@ -1,4 +1,4 @@
-<# Python'a Giriş
+# Python'a Giriş
 
 ## Python Nedir?
 
