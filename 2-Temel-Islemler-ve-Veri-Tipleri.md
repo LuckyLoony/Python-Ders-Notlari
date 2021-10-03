@@ -407,3 +407,4 @@ Bir metnin sadece ilk harfini büyük, diğerlerini ise küçük yapmak için __
 >>> isim.lower()
 "ünal halit özden"
 ```
+Bir metin boşluk içeriyor olabilir ve bu metni saklamadan ya da bir işlem yapmadan önce metindeki boşlukları kaldırmanız gerekebilir. Bunun için __.rstrip()__, __lstrip()__ ve __.strip()__ metodları kullanılır. Bu metodlardan ilk ikisi metnin sağındaki ve solundaki boşlukları kaldırır. Sonuncusu ise metindeki tüm boşlukları kaldırır.
